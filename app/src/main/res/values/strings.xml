@@ -1,0 +1,5 @@
+<resources>
+        <string name="app_name">Healthify</string>
+        <string name="update_wish">Update Goal</string>
+        <string name="add_wish">Add Goal</string>
+</resources>
